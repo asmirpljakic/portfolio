@@ -1,7 +1,7 @@
 {
   "name": "personal-website-react",
   "version": "0.2.0",
-  "homepage": "https://github.com/asmirpljakic/portfolio",
+  "homepage": "http://localhost:3000",
   "description": "This is a clean customizable portfolio.",
   "repository": "https://github.com/asmirpljakic/portfolio",
   "author": "Asmir Pljakic <asmirpljakic@gmail.com>",
